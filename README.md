@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## 🙋‍♂️ Let's Connect :
 <p align="left">
    <a href="mailto:negimukesh2056@gmail.com" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="mukesh negi" height="50" width="100" /></a>
-<a href="https://linkedin.com/in/mukesh negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukesh negi" height="50" width="100" /></a>
+<a href="https://www.linkedin.com/in/mukesh-negi-528914243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukesh negi" height="50" width="100" /></a>
 <a href="https://instagram.com/mukesh__negi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukesh__negi_" height="50" width="120" /></a>
 <a href="https://github.com/Mukesh-Negi" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/github-512.png" alt="mukesh negi" height="50" width="100" /></a>
 </p>
